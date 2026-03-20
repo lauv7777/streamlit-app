@@ -47,4 +47,4 @@ if st.button("✨ 立即生成好评"):
         st.info("📋 直接复制粘贴到评价区即可！")
         st.markdown("---")
         st.markdown("### 💡 更多AI工具 + 副业赚钱教程")
-        st.markdown("**微信：Lauv_0613（备注：AI工具）
+        st.markdown("**微信：Lauv_0613（备注：AI工具）")
