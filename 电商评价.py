@@ -45,3 +45,6 @@ if st.button("✨ 立即生成好评"):
         st.success("✅ 好评生成成功！")
         st.code(content, language="text")
         st.info("📋 直接复制粘贴到评价区即可！")
+st.markdown("---")
+st.markdown("### 💡 更多AI工具 + 副业赚钱教程")
+st.markdown("**微信：你的微信号**（备注：AI工具）
